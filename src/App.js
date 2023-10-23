@@ -13,9 +13,9 @@ function App() {
       </div>
 
       <div>
-        <Img imageSrc="http://placekitten.com/400/300" />
+        <Img imageSrc="http://placekitten.com/400/300" alttext="gattino"/>
       
-        <Img imageSrc="https://placedog.net/400/300" />
+        <Img imageSrc="https://placedog.net/400/300" alttext="cagnolino"/>
       </div>
     </div>
   );
